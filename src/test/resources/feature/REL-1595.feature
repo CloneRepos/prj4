@@ -1,4 +1,4 @@
-@ST_47670 @tagtagtag @this_is_story_tag
+@ST_48191 @tagtagtag @this_is_story_tag
 Feature: Update this name
 I want to see new description
 
@@ -6,7 +6,7 @@ Background:
 
 Given hkjhkj
 
-@SC_228702 @first_scenario_tag
+@SC_230752 @first_scenario_tag
 Scenario: First scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -16,13 +16,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_228703 @second_scenario_tag
+@SC_230753 @second_scenario_tag
 Scenario: Second scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_228704 @third_scenario_tag
+@SC_230754 @third_scenario_tag
 Scenario: Third scenario
 There is scenario description
 Lorem ipsum dolor sit amet, mea dico volumus copiosae cu, debet movet doctus ex nec, at adipisci interpretaris usu. Has feugiat ponderum te. Pri nisl case id, te est diam sint regione, in alii philosophia sit. Ius ancillae voluptaria cu. Ut eam dicta partiendo.
@@ -32,13 +32,13 @@ In mea tibique appetere perfecto, in iudico maluisset maiestatis usu. Augue disc
 Given I created scenario
 Then I see it in Relime
 
-@SC_228705 @fourth_scenario_tag
+@SC_230755 @fourth_scenario_tag
 Scenario: Fourth scenario
 Some description
 Given I created scenario
 Then I see it in Relime
 
-@SC_228706 @fifth_scenario_tag
+@SC_230756 @fifth_scenario_tag
 Scenario Outline: Fifth scenario
 Given the salary management system is initialized with the following data
 When the boss increases the salary for the <user> with id <id> by 5%
