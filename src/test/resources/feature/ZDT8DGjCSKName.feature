@@ -1,3 +1,3 @@
-@ST_56912 @tag1 @tag2 @tag3
+@ST_57413 @tag1 @tag2 @tag3
 Feature: BIZuvudNHLName
 Check that story can be created.
