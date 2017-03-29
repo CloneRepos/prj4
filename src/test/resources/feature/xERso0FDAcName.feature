@@ -1,3 +1,3 @@
-@ST_75018 @tag1 @tag2 @tag3
+@ST_75508 @tag1 @tag2 @tag3
 Feature: pZFTUEVCHoName
 Check that story can be created.
