@@ -1,3 +1,3 @@
-@ST_96676 @tag1 @tag2 @tag3
+@ST_97197 @tag1 @tag2 @tag3
 Feature: pvzcnEjCVLName
 Check that story can be created.
