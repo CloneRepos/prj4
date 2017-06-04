@@ -1,3 +1,3 @@
-@ST_106807 @tag1 @tag2 @tag3
+@ST_107328 @tag1 @tag2 @tag3
 Feature: gtIOUG98GuName
 Check that story can be created.
