@@ -1,54 +1,54 @@
-@ST_118088
+@ST_118609
 Feature: Name
 For check update from git 
 
-@SC_503077 @Critical
+@SC_505126 @Critical
 Scenario: First scenario
 Given jira-linked story
 When it performs update
 Then jira-linked story still linked to jira
 And after update in git it must be still linked
 
-@SC_503078 @Critical
+@SC_505127 @Critical
 Scenario: new
 Given jira-linked story
 When it performs update
 Then jira-linked story still linked to jira
 And after update in git it must be still linked
 
-@SC_503079 @Critical
+@SC_505128 @Critical
 Scenario: First scenario
 Given jira-linked story
 When it performs update
 Then jira-linked story still linked to jira
 And after update in git it must be still linked
 
-@SC_503080 @Critical
+@SC_505129 @Critical
 Scenario: First scenario
 Given jira-linked story
 When it performs update
 Then jira-linked story still linked to jira
 
-@SC_503081 @Critical
+@SC_505130 @Critical
 Scenario: First scenario
 Given jira-linked story
 When it performs update
 Then jira-linked story still linked to jira
 
-@SC_503082 @Critical
+@SC_505131 @Critical
 Scenario: First scenario
 Given jira-linked story
 When it performs update
 Then jira-linked story still linked to jira
 
-@SC_503083 @Critical
+@SC_505132 @Critical
 Scenario: First scenario
 Given jira-linked story
 When it performs update
 Then jira-linked story still linked to jira
 And after update in git it must be still linked
 
-@SC_503084 @Critical
+@SC_505133 @Critical
 Scenario: new
 Given jira-linked story
 When it performs update
