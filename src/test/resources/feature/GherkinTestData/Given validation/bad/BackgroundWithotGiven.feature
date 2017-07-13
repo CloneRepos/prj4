@@ -1,21 +1,21 @@
-@ST_124343 @Satory_Good
+@ST_124770 @Satory_Good
 Feature: Given in all scenarios
 Check Background without given keyword
 
-@SC_527617
+@SC_528877
 Scenario: 2
 When in this story background hasn't given keyword
 
-@SC_527618
+@SC_528878
 Scenario: 1
 When in this story background hasn't given keyword
 
-@SC_527619 @Critical @Test_1
+@SC_528879 @Critical @Test_1
 Scenario: Check scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
 
-@SC_527620 @Medium @Test_2
+@SC_528880 @Medium @Test_2
 Scenario: Check another scenario
 Given this scenario must started from given keyword
 Then gherkin parser must be ok with parsing
